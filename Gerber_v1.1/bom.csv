@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,100nF,
+C2,0603,1,4.7uF,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D5, D6, D7, D8, D9",0603,42,LED,
+J1,PinHeader_2x03_P2.54mm_Vertical_SMD,1,SAO,
+PC3,TestPoint_Pad_D1.5mm,1,PC3,
+PC4,TestPoint_Pad_D1.5mm,1,PC4,
+PC5,TestPoint_Pad_D1.5mm,1,PC5,
+PC6,TestPoint_Pad_D1.5mm,1,PC6,
+PC7,TestPoint_Pad_D1.5mm,1,PC7,
+"R1, R2, R3, R4, R5, R6, R7",0603,7,1K,
+SW1,SW_SPST_PTS810,1,Mode,
+U1,TSSOP-20_4.4x6.5mm_P0.65mm,1,CH32V003F4P6,
